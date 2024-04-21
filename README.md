@@ -1,4 +1,4 @@
-Discord: **amrojjeh_91069**
+Discord: **amrojjeh**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrojjeh&show_icons=true&theme=dark)
 
